@@ -44,16 +44,16 @@
 70	78.00	88.30	92.00	83.00	70.00
 21	10.00	8.50	8.00	17.00	21.00
 Scheme: International - Ref: Leeper, G.W., and N.C. Uren. 1993. Soil science: an introduction. 5th ed. Melbourne University Press, Carlton.
-0=none
-1=clay
-2=silty clay
-3=silty clay loam
-4=sandy clay 
-5=sandy clay loam
-6=clay loam 
-7=silty loam
-8=loam
-9=sand
-10=loamy sand
-11=sandy loam
-(sand:0.02-2.0; clay <0.002;silt 0.002-0.02)
+0=nessuno
+1=argilloso
+2=argilloso limoso
+3=franco argilloso limoso
+4=argilloso sabbioso 
+5=franco argilloso sabbioso
+6=franco argilloso 
+7=franco limoso
+8=franco
+9=sabbioso
+10=sabbioso franco
+11=franco sabbioso
+(sabbia:0.02-2.0; argilla <0.002;limo 0.002-0.02)

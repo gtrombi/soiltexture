@@ -48,18 +48,18 @@
 43	50	70	85	80	52	52	43
 7	0	0	15	20	20	7	7
 Scheme: United States Dept. of Agriculture - Ref: Soil Survey Division Staff. 1993. Soil survey manual. USDA Handb. 18. U.S. Gov. Print Office, Washington, DC.
-0=none
-1=clay
-2=silty clay
-3=silty clay loam
-4=sandy clay 
-5=sandy clay loam
-6=clay loam
-7=silt
-8=silt loam
-9=loam
-10=sand 
-11=loamy sand
-12=sandy loam
-13=silt loam
-(sand:0.05-2.0; clay: <0.002; silt: 0.002-0.05)
+0=nessuno
+1=argilloso
+2=argilloso limoso
+3=franco limoso argilloso
+4=argilloso sabbioso
+5=franco argilloso sabbioso
+6=franco argilloso
+7=limoso
+8=franco limoso
+9=franco
+10=sabbioso
+11=sabbioso franco
+12=franco sabbioso
+13=franco limoso
+(sabbia:0.05-2.0; argilla: <0.002; limo: 0.002-0.05)
